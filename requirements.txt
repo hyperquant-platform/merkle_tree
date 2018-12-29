@@ -1,0 +1,2 @@
+eth_hash==0.2.0
+pycryptodome==3.7.2
